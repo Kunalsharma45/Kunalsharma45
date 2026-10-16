@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunal%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-sharma-45)
 [![GitHub](https://img.shields.io/badge/GitHub-Kunalsharma45-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kunalsharma45)
 [![Email](https://img.shields.io/badge/Email-kunalsharma1165%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalsharma1165@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Kunal%20Sharma-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Kunal%20Sharma-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Kunal_144)
 
 </div>
 
